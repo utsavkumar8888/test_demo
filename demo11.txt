@@ -20,3 +20,7 @@ this is a demo file and this is
 this is the git commit fil1 
 
 
+
+this is the new line added after commit 
+
+then again commit this 
